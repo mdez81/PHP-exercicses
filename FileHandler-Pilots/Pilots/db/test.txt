@@ -1,0 +1,15 @@
+1; K.S.; Budapest 1028 Meredek utca 15; +36702234565
+2; T.D.; Budapest 1027 Szász Károly utca 3; +36702234564
+3; G.F.; Budapest 1026 Margit krt 8; +36702234563
+4; H.Z.; Budapest 1085 Népszínház utca 16; +36702234562
+5; K.V.; Budapest 1112 Kelenhegyi út 67; +36702234561
+6; X.S.; Budapest 1023 Mária utca 12; +36702234560
+7; U.U.;Budapest 1111 Gercse utca 56;+36707777777
+8;fgfdg;fgdfgd;fdgdf
+9;uzuzi;zuiuzi;zuiuz
+10;e;e;e
+11;e1;e1;e1
+12;u;u;u
+13;f;f;f
+14;rr;rr;rr
+
